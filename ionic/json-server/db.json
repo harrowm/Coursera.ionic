@@ -1,0 +1,351 @@
+{
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Uthapizza",
+      "image": "images/uthapizza.png",
+      "category": "mains",
+      "label": "Hot",
+      "price": 4.99,
+      "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Imagine all the eatables, living in conFusion!",
+          "author": "John Lemon",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+          "author": "Paul McVites",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Eat it, just eat it!",
+          "author": "Michael Jaikishan",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Ultimate, Reaching for the stars!",
+          "author": "Ringo Starry",
+          "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": 2,
+          "comment": "It's your birthday, we're gonna party!",
+          "author": "25 Cent",
+          "date": "2011-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": "2",
+          "comment": "ddd",
+          "author": "dd",
+          "date": "2016-09-18T12:39:08.653Z"
+        },
+        {
+          "rating": "1",
+          "comment": "one rating",
+          "author": "one name",
+          "date": "2016-10-01T06:15:34.355Z"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Zucchipakoda",
+      "image": "images/zucchipakoda.png",
+      "category": "appetizer",
+      "label": "",
+      "price": 1.99,
+      "description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Imagine all the eatables, living in conFusion!",
+          "author": "John Lemon",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+          "author": "Paul McVites",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Eat it, just eat it!",
+          "author": "Michael Jaikishan",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Ultimate, Reaching for the stars!",
+          "author": "Ringo Starry",
+          "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": 2,
+          "comment": "It's your birthday, we're gonna party!",
+          "author": "25 Cent",
+          "date": "2011-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": "3",
+          "comment": "This is a fab dish !",
+          "author": "Mike",
+          "date": "2016-09-18T10:44:55.907Z"
+        },
+        {
+          "rating": "1",
+          "comment": "I have a niggle about this dish",
+          "author": "Mike Niggle",
+          "date": "2016-09-18T11:16:02.615Z"
+        },
+        {
+          "rating": "5",
+          "comment": "Great dish !",
+          "author": "Gareth",
+          "date": "2016-09-18T12:06:31.976Z"
+        },
+        {
+          "rating": "3",
+          "comment": "Kees comment",
+          "author": "Kee",
+          "date": "2016-09-18T12:09:16.189Z"
+        },
+        {
+          "rating": "3",
+          "comment": "s",
+          "author": "s",
+          "date": "2016-09-18T12:11:02.179Z"
+        },
+        {
+          "rating": "2",
+          "comment": "a",
+          "author": "a",
+          "date": "2016-09-18T12:15:48.857Z"
+        },
+        {
+          "rating": "3",
+          "comment": "jj",
+          "author": "j",
+          "date": "2016-09-18T12:30:28.804Z"
+        },
+        {
+          "rating": "3",
+          "comment": "ss",
+          "author": "s",
+          "date": "2016-09-18T12:31:30.141Z"
+        },
+        {
+          "rating": "2",
+          "comment": "ss",
+          "author": "s",
+          "date": "2016-09-18T12:34:06.919Z"
+        },
+        {
+          "rating": "2",
+          "comment": "ss",
+          "author": "s",
+          "date": "2016-09-18T12:34:57.463Z"
+        },
+        {
+          "rating": "3",
+          "comment": "cc",
+          "author": "cc",
+          "date": "2016-09-18T12:36:22.681Z"
+        },
+        {
+          "rating": "3",
+          "comment": "ss",
+          "author": "s",
+          "date": "2016-09-18T12:46:24.141Z"
+        },
+        {
+          "rating": "3",
+          "comment": "ss",
+          "author": "s",
+          "date": "2016-09-18T12:48:11.628Z"
+        },
+        {
+          "rating": "1",
+          "comment": "gg",
+          "author": "g",
+          "date": "2016-09-19T00:24:43.392Z"
+        },
+        {
+          "rating": "2",
+          "comment": "Comment 2",
+          "author": "Name 2",
+          "date": "2016-09-24T02:08:50.093Z"
+        },
+        {
+          "rating": 5,
+          "comment": "",
+          "author": "",
+          "date": "2016-10-01T06:26:05.495Z"
+        },
+        {
+          "rating": 5,
+          "comment": "",
+          "author": "",
+          "date": "2016-10-02T09:34:38.542Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Vadonut",
+      "image": "images/vadonut.png",
+      "category": "appetizer",
+      "label": "New",
+      "price": 1.99,
+      "description": "A quintessential ConFusion experience, is it a vada or is it a donut?",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Imagine all the eatables, living in conFusion!",
+          "author": "John Lemon",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+          "author": "Paul McVites",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Eat it, just eat it!",
+          "author": "Michael Jaikishan",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Ultimate, Reaching for the stars!",
+          "author": "Ringo Starry",
+          "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": 2,
+          "comment": "It's your birthday, we're gonna party!",
+          "author": "25 Cent",
+          "date": "2011-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": "5",
+          "comment": "Dave's comment",
+          "author": "Dave",
+          "date": "2016-09-18T12:23:33.883Z"
+        },
+        {
+          "rating": "4",
+          "comment": "dd",
+          "author": "d",
+          "date": "2016-09-18T12:24:19.805Z"
+        },
+        {
+          "rating": "3",
+          "comment": "kkk",
+          "author": "jaj",
+          "date": "2016-09-18T12:28:51.340Z"
+        },
+        {
+          "rating": "2",
+          "comment": "2s a crowd comment",
+          "author": "2s a crowd",
+          "date": "2016-09-18T12:53:09.081Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "ElaiCheese Cake",
+      "image": "images/elaicheesecake.png",
+      "category": "dessert",
+      "label": "",
+      "price": "2.99",
+      "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Imagine all the eatables, living in conFusion!",
+          "author": "John Lemon",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+          "author": "Paul McVites",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Eat it, just eat it!",
+          "author": "Michael Jaikishan",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Ultimate, Reaching for the stars!",
+          "author": "Ringo Starry",
+          "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": 2,
+          "comment": "It's your birthday, we're gonna party!",
+          "author": "25 Cent",
+          "date": "2011-12-02T17:57:28.556094Z"
+        }
+      ]
+    }
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "Weekend Grand Buffet",
+      "image": "images/buffet.png",
+      "label": "New",
+      "price": "19.99",
+      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person "
+    }
+  ],
+  "leadership": [
+    {
+      "id": 0,
+      "name": "Peter Pan",
+      "image": "images/alberto.png",
+      "designation": "Chief Epicurious Officer",
+      "abbr": "CEO",
+      "description": "Our CEO, Peter, credits his hardworking East Asian immigrant parents who undertook the arduous journey to the shores of America with the intention of giving their children the best future. His mother's wizardy in the kitchen whipping up the tastiest dishes with whatever is available inexpensively at the supermarket, was his first inspiration to create the fusion cuisines for which The Frying Pan became well known. He brings his zeal for fusion cuisines to this restaurant, pioneering cross-cultural culinary connections."
+    },
+    {
+      "id": 1,
+      "name": "Dhanasekaran Witherspoon",
+      "image": "images/alberto.png",
+      "designation": "Chief Food Officer",
+      "abbr": "CFO",
+      "description": "Our CFO, Danny, as he is affectionately referred to by his colleagues, comes from a long established family tradition in farming and produce. His experiences growing up on a farm in the Australian outback gave him great appreciation for varieties of food sources. As he puts it in his own words, Everything that runs, wins, and everything that stays, pays!"
+    },
+    {
+      "id": 2,
+      "name": "Agumbe Tang",
+      "image": "images/alberto.png",
+      "designation": "Chief Taste Officer",
+      "abbr": "CTO",
+      "description": "Blessed with the most discerning gustatory sense, Agumbe, our CFO, personally ensures that every dish that we serve meets his exacting tastes. Our chefs dread the tongue lashing that ensues if their dish does not meet his exacting standards. He lives by his motto, You click only if you survive my lick."
+    },
+    {
+      "id": 3,
+      "name": "Alberto Somayya",
+      "image": "images/alberto.png",
+      "designation": "Executive Chef",
+      "abbr": "EC",
+      "description": "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!"
+    }
+  ],
+  "feedback": []
+}
